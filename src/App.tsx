@@ -61,7 +61,7 @@ function App() {
             onClick={scrollToContact}
             className="btn btn-lg bg-primary border-primary text-lg"
           >
-            Give Us A Ca
+            Give Us A Call
           </button>
         </div>
       </section>
