@@ -61,7 +61,7 @@ const Header: React.FC = () => {
                   setMobileOpen(false);
                 }}
               >
-                <p className={`text-lg font-medium ${selectedLocation === key ? "text-primary" : "text-base-100"}`}>
+                <p className={`text-lg font-medium font-LemonMilk ${selectedLocation === key ? "text-primary" : "text-base-100"}`}>
                   {name}
                 </p>
               </Link>
